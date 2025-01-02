@@ -55,3 +55,10 @@ There are plenty of OOP languages that have static data-type checking, and there
 
 millstone then quotes this part of an essay by Alan Kay: 
 
+![Alan Kay late binding](../img/alan_kay_late_binding.png)
+
+Please note the irony here: millstone is quoting a passage that is critical of Java, and yet millstone is claiming this passage, about “late binding”, shows what OO is good at. By this definition, Java is not an OOP language, which would surely be a surprise to Java programmers.
+
+Again, there are OOP languages that have don’t have late binding, and there are non-OOP languages that do have late binding. But for millstone, No True OOP Programmer would ever use a language with static data-type checking. To the extent that millstone is inventing a wholly idiosyncratic definition of OOP, their comments about OOP are wholly irrelevant to anyone else who wants to talk about OOP. And yet, in some sense, millstone is very common: I commonly run into software developers who have wholly idiosyncratic definitions of OOP. This can make it difficult to have a meaningful conversation.
+
+How should we talk about a concept as amorphous as OOP? There is no standard definition, so the best we can do is survey a few different sources and gather up the main ideas. How should we conduct this survey? Two ways: first, a trip through history, listening to Alan Kay describe the roots of OOP, and then a look at what some current introductory materials are teaching beginners about the core ideas of OOP. 
