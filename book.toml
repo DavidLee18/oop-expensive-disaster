@@ -1,0 +1,6 @@
+[book]
+authors = ["이재현"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Object Oriented Programming is an expensive disaster which must end"
