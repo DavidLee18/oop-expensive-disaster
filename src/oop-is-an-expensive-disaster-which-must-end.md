@@ -55,7 +55,7 @@ There are plenty of OOP languages that have static data-type checking, and there
 
 millstone then quotes this part of an essay by Alan Kay: 
 
-![Alan Kay late binding](../img/alan_kay_late_binding.png)
+![Alan Kay late binding](alan_kay_late_binding.png)
 
 Please note the irony here: millstone is quoting a passage that is critical of Java, and yet millstone is claiming this passage, about “late binding”, shows what OO is good at. By this definition, Java is not an OOP language, which would surely be a surprise to Java programmers.
 
